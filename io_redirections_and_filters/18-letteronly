@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -x "\b[A-Za-z].*\b" testing 
+grep -x "^[A-Za-z].*" testing 
