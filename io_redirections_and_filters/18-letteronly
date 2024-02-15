@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -x "\b[A-Za-z].*b" /etc/ssh/sshd_config
+grep -x "\b[A-Za-z].*\b" testing 
